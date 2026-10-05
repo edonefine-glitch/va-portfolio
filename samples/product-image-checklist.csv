@@ -1,0 +1,5 @@
+Model,Filename,View,Dimensions,Background,Review status
+Sample Model,01_Model_Lifestyle.jpg,Lifestyle,768x576,Original,Ready for review
+Sample Model,02_Model_Transparent.png,Product cutout,1000x1000,Transparent,Check edges
+Sample Model,03_Model_TopView.jpg,Top view,768x576,Original,Ready for review
+Sample Model,04_Model_Feature.jpg,Feature,768x576,Original,Check exact model
